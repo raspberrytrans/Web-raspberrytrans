@@ -1,6 +1,4 @@
-# Web-raspberrytrans
-# Python GPS-locking
-# Get latitude and longitude data
+# Web-raspberrytrans: Python GPS-locking, Get latitude and longitude data
 # activate GPS (open raspberry trans terminal):
 sudo cat /dev/ttyUSB0
 sudo gpsd /dev/ttyUSB0 -F /var/run/gpsd.sock
